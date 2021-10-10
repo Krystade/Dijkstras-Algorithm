@@ -111,7 +111,7 @@ class Path
 
 end
 
-class button
+class Button
     @@numOfButtons = 0
     def initialize(x, y, width, height, color)
 
